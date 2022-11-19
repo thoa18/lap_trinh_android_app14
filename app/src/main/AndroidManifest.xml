@@ -13,9 +13,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.App_14"
         tools:targetApi="31">
-        <activity
-            android:name=".DisplayContact"
-            android:exported="false" />
+<!--        <activity-->
+<!--            android:name=".DisplayContact"-->
+<!--            android:exported="false" />-->
         <activity
             android:name=".MainActivity"
             android:exported="true">
